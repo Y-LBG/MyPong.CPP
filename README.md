@@ -4,6 +4,8 @@ Tiny "Pong" project I worked on back in my student days to have fun with C++.
 
 I'm actually surprised the code isn't as terrible as I would have expected, looking at it after so many years 😝
 
+https://user-images.githubusercontent.com/6338252/235559291-524d9934-03b4-4ce2-81dd-af19c4b8bc94.mp4
+
 ## Resources
 
 All image resources have been created using GIMP.
